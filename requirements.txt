@@ -1,5 +1,6 @@
-crewai
+crewai[litellm]
 langchain-groq
 langchain-community
-duckduckgo-search
+wikipedia
 python-dotenv
+streamlit
