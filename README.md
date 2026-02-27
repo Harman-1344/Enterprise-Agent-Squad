@@ -1,21 +1,60 @@
-# 🕵️‍♂️ Autonomous Market Intelligence Squad
+🕵️‍♂️ Autonomous Market Intelligence Squad
 
-An industry-level Multi-Agent AI system built with **CrewAI**, **Streamlit**, and **Groq (Llama-3.3)**. This system orchestrates a team of AI agents to research, analyze, and generate executive reports on any given topic.
+Live Demo: https://enterprise-agent-squad.streamlit.app/
 
-## 🚀 Features
-- **Multi-Agent Orchestration:** Uses CrewAI to manage a Researcher, Analyst, and Editor.
-- **Real-time Research:** Integrated with Wikipedia API for factual data retrieval.
-- **High-Speed Inference:** Powered by Llama-3.3-70b via Groq.
-- **Web Interface:** Interactive UI built with Streamlit.
+📌 Project Description
 
-## 🛠️ Tech Stack
-- **Framework:** CrewAI
-- **LLM:** Llama-3.3-70b (via Groq)
-- **Frontend:** Streamlit
-- **Environment:** Python 3.10+
+The Autonomous Market Intelligence Squad is an industry-level Multi-Agent AI orchestration system designed to automate research, strategic analysis, and executive reporting. Instead of relying on a single LLM prompt, this system coordinates multiple specialized AI agents that collaborate to complete complex research workflows autonomously.
 
-## 📥 Installation & Setup
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/YourUsername/Enterprise-Agent-Squad.git](https://github.com/YourUsername/Enterprise-Agent-Squad.git)
-   cd Enterprise-Agent-Squad
+Built using CrewAI and powered by Llama-3.3-70B via Groq, the system performs factual retrieval, strategic evaluation, and professional report generation in under 60 seconds.
+
+This project demonstrates the real-world power of Agentic AI in eliminating manual data gathering and transforming raw information into structured, decision-ready insights.
+
+🚀 Key Highlights
+
+Multi-Agent Architecture – Three specialized agents: Researcher, Analyst, and Editor
+
+Autonomous Tool Usage – Wikipedia API integration for real-time knowledge retrieval
+
+High-Speed Inference – Groq-powered Llama-3.3-70B for fast reasoning
+
+Interactive Web App – Built using Streamlit
+
+Downloadable Reports – Generates professional Markdown reports
+
+🏗️ How It Works
+
+Researcher Agent
+Collects relevant information using semantic search and external APIs.
+
+Strategy Analyst Agent
+Evaluates risks, opportunities, and strategic implications.
+
+Chief Editor Agent
+Synthesizes findings into a structured executive-level report.
+
+🛠️ Tech Stack
+
+Python 3.10
+
+CrewAI (Agent Orchestration)
+
+Groq API (llama-3.3-70b-versatile)
+
+LangChain Community Tools
+
+Wikipedia API
+
+Streamlit
+
+python-dotenv
+
+🔗 Submission Links
+
+Deployment URL: https://enterprise-agent-squad.streamlit.app/
+
+GitHub Repository: https://github.com/Harman-1344/Enterprise-Agent-Squad
+
+📈 Why This Project Matters
+
+Traditional AI systems respond to single prompts. This project showcases how collaborative AI agents can break down complex problems into structured workflows — simulating a real enterprise research team. It represents a shift from passive AI assistants to autonomous, goal-driven AI systems.
