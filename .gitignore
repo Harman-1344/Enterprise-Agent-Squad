@@ -1,0 +1,10 @@
+# Environments
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Local Reports
+market_report.md
